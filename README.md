@@ -18,10 +18,10 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 ---
 
 ### 🛠 Projects I'm Proud Of
-- 🔗 **[E-commerce backend](https://github.com/joekariuki3/ecommerce_backend)** - A modern, scalable backend service for an e-commerce platform.
-- 🔗 **[Lineage](https://github.com/joekariuki3/lineage)** - A solo-built family tree and memory-sharing platform.
+- 🔗 **[E-commerce backend](https://github.com/joelmuhoho/ecommerce_backend)** - A modern, scalable backend service for an e-commerce platform.
+- 🔗 **[Lineage](https://github.com/joelmuhoho/lineage)** - A solo-built family tree and memory-sharing platform.
 - 🔗 **[AccoTrac](https://github.com/kamaufnjeri/AccoTrac)** - A collaborative accounting tool for small businesses (Backend Developer).
-- 🔗 **[Simple shell](https://github.com/joekariuki3/joel-shell)** - A custom built simple shell designed to provide a lightweight and efficient command-line interface for interacting with linux system.
+- 🔗 **[Simple shell](https://github.com/joelmuhoho/joel-shell)** - A custom built simple shell designed to provide a lightweight and efficient command-line interface for interacting with linux system.
 
 ---
 
@@ -39,7 +39,7 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 - 📫 **Email**: [joelkmuhoho@gmail.com](mailto:joelkmuhoho@gmail.com)
 - 🌐 **Portfolio**: [joelmuhoho.com](https://joelmuhoho.com)
 - 💼 **LinkedIn**: [linkedin.com/in/joelmuhoho](https://www.linkedin.com/in/joelmuhoho)
-- 🛠️ **GitHub**: [github.com/joekariuki3](https://github.com/joekariuki3)
+- 🛠️ **GitHub**: [github.com/joekariuki3](https://github.com/joelmuhoho)
 
 ---
 
