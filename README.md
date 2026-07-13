@@ -39,7 +39,7 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 - 📫 **Email**: [joelkmuhoho@gmail.com](mailto:joelkmuhoho@gmail.com)
 - 🌐 **Portfolio**: [joelmuhoho.com](https://joelmuhoho.com)
 - 💼 **LinkedIn**: [linkedin.com/in/joelmuhoho](https://www.linkedin.com/in/joelmuhoho)
-- 🛠️ **GitHub**: [github.com/joekariuki3](https://github.com/joelmuhoho)
+- 🛠️ **GitHub**: [github.com/joelmuhoho](https://github.com/joelmuhoho)
 
 ---
 
