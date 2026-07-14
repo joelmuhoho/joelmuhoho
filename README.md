@@ -26,12 +26,12 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 ---
 
 ### 🎓 Learning Journey
-
+- ☁️ </> **Currently Learning: AWS Developer** - Building skills in deploying, developing, and managing applications on AWS.
+- ☁️ **AWS Solutions Architect Learning Journey** - AWS Solution Architect Certified
 - 🎓 **ALX Software Engineering Program**
   - Foundations, Backend Specialization, AI Starter Kit, Professional Development
 - ☁️ **AWS re/Start Graduate** - AWS Cloud Practitioner Certified
 - 📚 Always learning and building - currently focused on advanced backend and cloud skills.
-
 ---
 
 ### 🌍 Let's Connect
